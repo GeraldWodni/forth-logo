@@ -37,7 +37,7 @@ Examples:
 
 ![Forth Logo](https://github.com/GeraldWodni/forth-logo/raw/master/forth-standard.org/forth.png)
 
-![the Forth net Logo](https://github.com/GeraldWodni/forth-logo/raw/master/theforth.net/forth.png)
+![the Forth net Logo](https://github.com/GeraldWodni/forth-logo/raw/master/theforth.net/logo.png)
 
 ![EuroForth](https://github.com/GeraldWodni/forth-logo/raw/master/euroforth/logo.png)
 
