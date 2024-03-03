@@ -14,11 +14,11 @@ The Logo is pixelized and should not use any soft gradients for the Text and the
 When scaling the logo use no interpolation to keep the hard edges.
 
 The colon and the upper dot of the semicolon consist of a rectangle `16` by `12 units`.
-The shadow is inset by `1 unit` and `1 unit` tall.
+The shadow is inset by `1 unit` and `1 unit`.
 
 The comma part of the semicolon only `11 units` tall.
 Stairs to the right are `4` by `4 units`.
-The gap to the left is `4` by `5 units`
+The gap to the left is `4` by `5 units`.
 
 The (semi-)colon-points are separated by `12 units` horizontally and `8 units` verically (not counting shadows).
 
