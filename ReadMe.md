@@ -13,10 +13,16 @@ So what is more iconic than the colon definition's `:` and `;` - let's use that!
 The Logo is pixelized and should not use any soft gradients for the Text and the shadow.
 When scaling the logo use no interpolation to keep the hard edges.
 
-The colon and the upper dot of the semicolon consist of a rectangle ` ` by ` ` units.
-The shadow is inset by `1unit` and `1unit` tall.
+The colon and the upper dot of the semicolon consist of a rectangle `16` by `12 units`.
+The shadow is inset by `1 unit` and `1 unit` tall.
 
-The rectangle of the comma of the semicolon is `1unit` less tall.
+The comma part of the semicolon only `11 units` tall.
+Stairs to the right are `4` by `4 units`.
+The gap to the left is `4` by `5 units`
+
+The (semi-)colon-points are separated by `12 units` horizontally and `8 units` verically (not counting shadows).
+
+The rectangle of the comma of the semicolon is `1 unit` less tall.
 
 The Logo consists of 3 colors:
 
